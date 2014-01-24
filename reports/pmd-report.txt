@@ -1,0 +1,217 @@
+src/Admin.java:17:	All classes and interfaces must belong to a named package
+src/Admin.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Admin.java:22:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/Admin.java:27:	Parameter 'args' is not assigned and could be declared final
+src/Admin.java:28:	To be compliant to J2EE, a webapp should not use any thread.
+src/Admin.java:31:	Local variable 'frame' could be declared final
+src/Admin.java:33:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Admin.java:34:	Avoid printStackTrace(); use a logger call instead.
+src/Admin.java:43:	It is a good practice to call super() in a constructor
+src/Admin.java:59:	Ensure that resources like this Connection object are closed after use
+src/Admin.java:59:	Local variable 'con' could be declared final
+src/Admin.java:61:	Local variable 'sql' could be declared final
+src/Admin.java:62:	Avoid variables with short names like st
+src/Admin.java:62:	Local variable 'st' could be declared final
+src/Admin.java:63:	Avoid variables with short names like rs
+src/Admin.java:63:	Ensure that resources like this ResultSet object are closed after use
+src/Admin.java:63:	Local variable 'rs' could be declared final
+src/Admin.java:71:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Admin.java:72:	The String literal "Error" appears 4 times in this file; the first occurrence is on line 72
+src/Admin.java:82:	Local variable 'btnNewButton' could be declared final
+src/Admin.java:85:	Avoid variables with short names like e
+src/Admin.java:85:	Parameter 'e' is not assigned and could be declared final
+src/Admin.java:87:	Local variable 'proion' could be declared final
+src/Admin.java:92:	Potential violation of Law of Demeter (method chain calls)
+src/Admin.java:97:	Ensure that resources like this Connection object are closed after use
+src/Admin.java:97:	Local variable 'con' could be declared final
+src/Admin.java:100:	Local variable 'sql' could be declared final
+src/Admin.java:101:	Avoid variables with short names like st
+src/Admin.java:101:	Local variable 'st' could be declared final
+src/Admin.java:101:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:102:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:110:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Admin.java:119:	Ensure that resources like this Connection object are closed after use
+src/Admin.java:119:	Local variable 'con' could be declared final
+src/Admin.java:120:	Avoid variables with short names like st
+src/Admin.java:120:	Local variable 'st' could be declared final
+src/Admin.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:121:	Avoid variables with short names like rs
+src/Admin.java:121:	Ensure that resources like this ResultSet object are closed after use
+src/Admin.java:121:	Local variable 'rs' could be declared final
+src/Admin.java:121:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:123:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:125:	Potential violation of Law of Demeter (object not created locally)
+src/Admin.java:133:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Admin.java:153:	Local variable 'label' could be declared final
+src/Enter_RersonalData.java:20:	All classes and interfaces must belong to a named package
+src/Enter_RersonalData.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Enter_RersonalData.java:26:	Perhaps 'contentPane' could be replaced by a local variable.
+src/Enter_RersonalData.java:26:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/Enter_RersonalData.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Enter_RersonalData.java:27:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/Enter_RersonalData.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Enter_RersonalData.java:28:	Private field 'passwordField' could be made final; it is only initialized in the declaration or constructor.
+src/Enter_RersonalData.java:33:	Parameter 'args' is not assigned and could be declared final
+src/Enter_RersonalData.java:34:	To be compliant to J2EE, a webapp should not use any thread.
+src/Enter_RersonalData.java:37:	Local variable 'frame' could be declared final
+src/Enter_RersonalData.java:39:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Enter_RersonalData.java:40:	Avoid printStackTrace(); use a logger call instead.
+src/Enter_RersonalData.java:49:	It is a good practice to call super() in a constructor
+src/Enter_RersonalData.java:58:	Local variable 'label' could be declared final
+src/Enter_RersonalData.java:67:	Local variable 'label_1' could be declared final
+src/Enter_RersonalData.java:67:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/Enter_RersonalData.java:75:	Local variable 'save' could be declared final
+src/Enter_RersonalData.java:78:	Avoid variables with short names like e
+src/Enter_RersonalData.java:78:	Parameter 'e' is not assigned and could be declared final
+src/Enter_RersonalData.java:80:	Found 'DU'-anomaly for variable 'username' (lines '80'-'125').
+src/Enter_RersonalData.java:80:	Local variable 'username' could be declared final
+src/Enter_RersonalData.java:81:	Found 'DU'-anomaly for variable 'password' (lines '81'-'125').
+src/Enter_RersonalData.java:81:	Local variable 'password' could be declared final
+src/Enter_RersonalData.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/Enter_RersonalData.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/Enter_RersonalData.java:92:	Ensure that resources like this Connection object are closed after use
+src/Enter_RersonalData.java:92:	Local variable 'con' could be declared final
+src/Enter_RersonalData.java:93:	Local variable 'sql1' could be declared final
+src/Enter_RersonalData.java:97:	Local variable 'st1' could be declared final
+src/Enter_RersonalData.java:97:	Potential violation of Law of Demeter (object not created locally)
+src/Enter_RersonalData.java:98:	Potential violation of Law of Demeter (object not created locally)
+src/Enter_RersonalData.java:113:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Enter_RersonalData.java:113:	Avoid empty catch blocks
+src/Enter_RersonalData.java:113:	Avoid empty catch blocks
+src/Login.java:18:	All classes and interfaces must belong to a named package
+src/Login.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Login.java:24:	Perhaps 'contentPane' could be replaced by a local variable.
+src/Login.java:24:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/Login.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Login.java:25:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/Login.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Login.java:26:	Private field 'passField' could be made final; it is only initialized in the declaration or constructor.
+src/Login.java:33:	Parameter 'args' is not assigned and could be declared final
+src/Login.java:34:	To be compliant to J2EE, a webapp should not use any thread.
+src/Login.java:37:	Local variable 'frame' could be declared final
+src/Login.java:39:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Login.java:40:	Avoid printStackTrace(); use a logger call instead.
+src/Login.java:49:	It is a good practice to call super() in a constructor
+src/Login.java:63:	Local variable 'btnNewButton' could be declared final
+src/Login.java:65:	Avoid variables with short names like e
+src/Login.java:65:	Parameter 'e' is not assigned and could be declared final
+src/Login.java:67:	Local variable 'user' could be declared final
+src/Login.java:68:	Found 'DU'-anomaly for variable 'strpass' (lines '68'-'145').
+src/Login.java:68:	Found 'DU'-anomaly for variable 'strpass' (lines '68'-'145').
+src/Login.java:68:	Local variable 'strpass' could be declared final
+src/Login.java:73:	Ensure that resources like this Connection object are closed after use
+src/Login.java:73:	Local variable 'con' could be declared final
+src/Login.java:74:	Avoid variables with short names like st
+src/Login.java:74:	Local variable 'st' could be declared final
+src/Login.java:74:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:75:	Avoid variables with short names like rs
+src/Login.java:75:	Ensure that resources like this ResultSet object are closed after use
+src/Login.java:75:	Local variable 'rs' could be declared final
+src/Login.java:75:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:77:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:80:	Local variable 'dbpass' could be declared final
+src/Login.java:80:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:81:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:84:	Position literals first in String comparisons
+src/Login.java:84:	Potential violation of Law of Demeter (object not created locally)
+src/Login.java:86:	Local variable 'form' could be declared final
+src/Login.java:90:	Local variable 'aksiologhsh' could be declared final
+src/Login.java:109:	Avoid empty catch blocks
+src/Login.java:109:	Avoid empty catch blocks
+src/Login.java:118:	Local variable 'lblNewLabel' could be declared final
+src/Login.java:122:	Local variable 'lblNewLabel_1' could be declared final
+src/Login.java:122:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_1' is not final.
+src/Login.java:130:	Local variable 'button' could be declared final
+src/Login.java:132:	Avoid variables with short names like e
+src/Login.java:132:	Parameter 'e' is not assigned and could be declared final
+src/Login.java:134:	Local variable 'form1' could be declared final
+src/Main.java:1:	A Classname should have a minimum of five characters
+src/Main.java:1:	All classes and interfaces must belong to a named package
+src/Main.java:1:	All methods are static.  Consider using Singleton instead.  Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Main.java:6:	Parameter 'args' is not assigned and could be declared final
+src/Main.java:8:	Local variable 'LGForm' could be declared final
+src/Main.java:8:	Variables should start with a lowercase character, 'LGForm' starts with uppercase character.
+src/Selida_aksiologhshs.java:23:	All classes and interfaces must belong to a named package
+src/Selida_aksiologhshs.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Selida_aksiologhshs.java:29:	Perhaps 'contentPane' could be replaced by a local variable.
+src/Selida_aksiologhshs.java:29:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/Selida_aksiologhshs.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Selida_aksiologhshs.java:32:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/Selida_aksiologhshs.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/Selida_aksiologhshs.java:33:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+src/Selida_aksiologhshs.java:33:	Perhaps 'textField_1' could be replaced by a local variable.
+src/Selida_aksiologhshs.java:33:	Private field 'textField_1' could be made final; it is only initialized in the declaration or constructor.
+src/Selida_aksiologhshs.java:43:	Parameter 'args' is not assigned and could be declared final
+src/Selida_aksiologhshs.java:44:	To be compliant to J2EE, a webapp should not use any thread.
+src/Selida_aksiologhshs.java:47:	Local variable 'frame' could be declared final
+src/Selida_aksiologhshs.java:49:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Selida_aksiologhshs.java:50:	Avoid printStackTrace(); use a logger call instead.
+src/Selida_aksiologhshs.java:60:	It is a good practice to call super() in a constructor
+src/Selida_aksiologhshs.java:93:	Avoid excessively long variable names like aksiopistiaSpinner
+src/Selida_aksiologhshs.java:113:	Ensure that resources like this Connection object are closed after use
+src/Selida_aksiologhshs.java:113:	Local variable 'con' could be declared final
+src/Selida_aksiologhshs.java:115:	Local variable 'sql' could be declared final
+src/Selida_aksiologhshs.java:116:	Avoid variables with short names like st
+src/Selida_aksiologhshs.java:116:	Local variable 'st' could be declared final
+src/Selida_aksiologhshs.java:117:	Avoid variables with short names like rs
+src/Selida_aksiologhshs.java:117:	Ensure that resources like this ResultSet object are closed after use
+src/Selida_aksiologhshs.java:117:	Local variable 'rs' could be declared final
+src/Selida_aksiologhshs.java:125:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Selida_aksiologhshs.java:142:	Local variable 'btnOk' could be declared final
+src/Selida_aksiologhshs.java:145:	Avoid variables with short names like e
+src/Selida_aksiologhshs.java:145:	Parameter 'e' is not assigned and could be declared final
+src/Selida_aksiologhshs.java:163:	Local variable 'timh1' could be declared final
+src/Selida_aksiologhshs.java:167:	Local variable 'energy1' could be declared final
+src/Selida_aksiologhshs.java:171:	Local variable 'service1' could be declared final
+src/Selida_aksiologhshs.java:176:	Local variable 'label' could be declared final
+src/Selida_aksiologhshs.java:180:	Local variable 'label_1' could be declared final
+src/Selida_aksiologhshs.java:180:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/Selida_aksiologhshs.java:188:	Parameter 'arg0' is not assigned and could be declared final
+src/Selida_aksiologhshs.java:194:	Local variable 'price' could be declared final
+src/Selida_aksiologhshs.java:195:	Local variable 'energy' could be declared final
+src/Selida_aksiologhshs.java:196:	Local variable 'service' could be declared final
+src/Selida_aksiologhshs.java:197:	Local variable 'aksiopistia' could be declared final
+src/Selida_aksiologhshs.java:198:	Local variable 'help' could be declared final
+src/Selida_aksiologhshs.java:205:	Ensure that resources like this Connection object are closed after use
+src/Selida_aksiologhshs.java:205:	Local variable 'con' could be declared final
+src/Selida_aksiologhshs.java:208:	Local variable 'sql' could be declared final
+src/Selida_aksiologhshs.java:208:	The String literal "'" appears 6 times in this file; the first occurrence is on line 208
+src/Selida_aksiologhshs.java:208:	The String literal "'where proionta='" appears 6 times in this file; the first occurrence is on line 208
+src/Selida_aksiologhshs.java:209:	Local variable 'sql1' could be declared final
+src/Selida_aksiologhshs.java:210:	Local variable 'sql2' could be declared final
+src/Selida_aksiologhshs.java:211:	Local variable 'sql3' could be declared final
+src/Selida_aksiologhshs.java:212:	Local variable 'sql4' could be declared final
+src/Selida_aksiologhshs.java:214:	Avoid excessively long variable names like Synoliki_vathmologia
+src/Selida_aksiologhshs.java:214:	Local variable 'Synoliki_vathmologia' could be declared final
+src/Selida_aksiologhshs.java:214:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Synoliki_vathmologia' is not final.
+src/Selida_aksiologhshs.java:214:	Useless parentheses.
+src/Selida_aksiologhshs.java:214:	Useless parentheses.
+src/Selida_aksiologhshs.java:214:	Variables should start with a lowercase character, 'Synoliki_vathmologia' starts with uppercase character.
+src/Selida_aksiologhshs.java:215:	Local variable 'sql5' could be declared final
+src/Selida_aksiologhshs.java:220:	Avoid variables with short names like st
+src/Selida_aksiologhshs.java:220:	Local variable 'st' could be declared final
+src/Selida_aksiologhshs.java:220:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:221:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:223:	Local variable 'st1' could be declared final
+src/Selida_aksiologhshs.java:223:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:224:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:226:	Local variable 'st2' could be declared final
+src/Selida_aksiologhshs.java:226:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:227:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:229:	Local variable 'st3' could be declared final
+src/Selida_aksiologhshs.java:229:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:230:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:232:	Local variable 'st4' could be declared final
+src/Selida_aksiologhshs.java:232:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:233:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:235:	Local variable 'st5' could be declared final
+src/Selida_aksiologhshs.java:235:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:236:	Potential violation of Law of Demeter (object not created locally)
+src/Selida_aksiologhshs.java:242:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/Selida_aksiologhshs.java:262:	Local variable 'label_2' could be declared final
+src/Selida_aksiologhshs.java:262:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/Selida_aksiologhshs.java:266:	Local variable 'label_3' could be declared final
+src/Selida_aksiologhshs.java:266:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/Selida_aksiologhshs.java:272:	Local variable 'lblOnline' could be declared final
+src/Selida_aksiologhshs.java:276:	Local variable 'label_4' could be declared final
+src/Selida_aksiologhshs.java:276:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
